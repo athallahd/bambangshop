@@ -1,5 +1,3 @@
-use std::result;
-
 use rocket::response::status::Created;
 use rocket::serde::json::Json;
 
